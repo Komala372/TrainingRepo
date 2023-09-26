@@ -3,7 +3,6 @@ package org.example.service;
 import org.example.pojo.Customer;
 import org.example.pojo.Product;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
 
