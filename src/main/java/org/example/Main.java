@@ -21,5 +21,9 @@ public class Main {
         //customerService.buyProduct(2,2);
         customerService.findCustomerById(1);
         productService.findProductById(3);
+        customerService.buyProduct(1,3);
+        customerService.buyProduct(2,1);
+        customerService.productBroughtByCustomer(1);
+        customerService.productBroughtByCustomer(3);
         }
 }
